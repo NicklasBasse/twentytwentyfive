@@ -7,7 +7,7 @@ Tickets to report bugs or make feature requests can be opened against the Bundle
 
 Browse open issues: https://core.trac.wordpress.org/search?q=twenty+twenty-five.
 
----
+--- Nicklas Basse Passer 
 
 # Twenty Twenty-Five
 
